@@ -19,4 +19,4 @@ Hi you all! Today is a lot of talking!
 - Third Item 
 
 ## Link 
-[Spiced] https://www.spiced-academy.com/en
+[Spiced](https://www.spiced-academy.com/en)
