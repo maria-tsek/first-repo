@@ -14,6 +14,6 @@ Hi you all! Today is a lot of talking!
    
 ## List
 
-First Item
-Second Item 
-Third Item 
+-First Item
+-Second Item 
+-Third Item 
